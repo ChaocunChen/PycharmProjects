@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fedbb7e-e940-4e09-bbd3-ddce4a001ca9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZyUPSu9RAy63l1qTvSahSxBGN1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.电动车爬取">
+    <configuration name="电动车爬取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/电动车爬取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络爬虫方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/c.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mmm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mmm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.电动车爬取" />
+        <item itemvalue="Python.c" />
+        <item itemvalue="Python.mmm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fedbb7e-e940-4e09-bbd3-ddce4a001ca9" name="Default Changelist" comment="" />
+      <created>1585810802434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585810802434</updated>
+      <workItem from="1585810807053" duration="15462000" />
+      <workItem from="1586333554623" duration="4000" />
+      <workItem from="1586346934182" duration="42000" />
+      <workItem from="1586417666506" duration="1067000" />
+      <workItem from="1586830159550" duration="90000" />
+      <workItem from="1587104959700" duration="5290000" />
+      <workItem from="1587110955521" duration="240000" />
+      <workItem from="1587111242078" duration="532000" />
+      <workItem from="1587112627560" duration="27432000" />
+      <workItem from="1587523520598" duration="6966000" />
+      <workItem from="1587609610119" duration="18957000" />
+      <workItem from="1587689367628" duration="20608000" />
+      <workItem from="1587727154192" duration="286000" />
+      <workItem from="1587988166549" duration="20000" />
+      <workItem from="1588042913237" duration="17031000" />
+      <workItem from="1588070653076" duration="5045000" />
+      <workItem from="1588121753538" duration="1732000" />
+      <workItem from="1588123807926" duration="73000" />
+      <workItem from="1588123923493" duration="1000" />
+      <workItem from="1588124025896" duration="346000" />
+      <workItem from="1588124419761" duration="327000" />
+      <workItem from="1588125160193" duration="300000" />
+      <workItem from="1588125723304" duration="1775000" />
+      <workItem from="1588127537822" duration="1739000" />
+      <workItem from="1588129351736" duration="1872000" />
+      <workItem from="1588131376418" duration="2130000" />
+      <workItem from="1588138177688" duration="1775000" />
+      <workItem from="1588139992197" duration="1785000" />
+      <workItem from="1588141813620" duration="1793000" />
+      <workItem from="1588143629719" duration="1863000" />
+      <workItem from="1588147371064" duration="1561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="105" key="#Deployment" timestamp="1587110788779">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="781" y="105" key="#Deployment/0.23.1920.1010@0.23.1920.1010" timestamp="1587110788779" />
+    <state x="396" y="87" key="#Inspections" timestamp="1585814467576">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="396" y="87" key="#Inspections/0.23.1440.833@0.23.1440.833" timestamp="1585814467576" />
+    <state x="166" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586346968290">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="133" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833@0.23.1440.833" timestamp="1585899409513" />
+    <state x="133" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.834@0.23.1440.834" timestamp="1585811223207" />
+    <state x="166" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.836@0.23.1440.836" timestamp="1586346968290" />
+    <state x="688" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588073833248">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="688" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1588073833248" />
+    <state x="366" y="23" key="#电动车爬取" timestamp="1585812156673">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="366" y="23" key="#电动车爬取/0.23.1440.834@0.23.1440.834" timestamp="1585812156673" />
+    <state x="871" y="162" key="#网络爬虫方法" timestamp="1588149198402">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="871" y="162" key="#网络爬虫方法/0.23.1920.1010@0.23.1920.1010" timestamp="1588149198402" />
+    <state width="1753" height="531" key="DebuggerActiveHint" timestamp="1588069803071">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="976" height="438" key="DebuggerActiveHint/0.23.1440.834@0.23.1440.834" timestamp="1585896879365" />
+    <state width="1753" height="531" key="DebuggerActiveHint/0.23.1920.1010@0.23.1920.1010" timestamp="1588069803071" />
+    <state x="985" y="258" key="FileChooserDialogImpl" timestamp="1588149323147">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="985" y="258" key="FileChooserDialogImpl/0.23.1920.1010@0.23.1920.1010" timestamp="1588149323147" />
+    <state width="678" height="218" key="GridCell.Tab.0.bottom" timestamp="1590561168154">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588123491602" />
+    <state width="678" height="218" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1590561168154" />
+    <state width="1357" height="218" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1588833095676" />
+    <state width="678" height="218" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1590548155575" />
+    <state width="678" height="218" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1590380790141" />
+    <state width="678" height="318" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1588902930072" />
+    <state width="1357" height="218" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1588833399536" />
+    <state width="678" height="218" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1590479706058" />
+    <state width="1163" height="318" key="GridCell.Tab.0.bottom/0.23.1920.1010@0.23.1920.1010" timestamp="1588745574620" />
+    <state width="678" height="218" key="GridCell.Tab.0.center" timestamp="1590561168153">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588123491601" />
+    <state width="678" height="218" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1590561168153" />
+    <state width="1357" height="218" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1588833095675" />
+    <state width="678" height="218" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1590548155574" />
+    <state width="678" height="218" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1590380790140" />
+    <state width="678" height="318" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1588902930071" />
+    <state width="1357" height="218" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1588833399535" />
+    <state width="678" height="218" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1590479706057" />
+    <state width="1163" height="318" key="GridCell.Tab.0.center/0.23.1920.1010@0.23.1920.1010" timestamp="1588745574618" />
+    <state width="678" height="218" key="GridCell.Tab.0.left" timestamp="1590561168153">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588123491601" />
+    <state width="678" height="218" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1590561168153" />
+    <state width="1357" height="218" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1588833095675" />
+    <state width="678" height="218" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1590548155574" />
+    <state width="678" height="218" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1590380790139" />
+    <state width="678" height="318" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1588902930071" />
+    <state width="1357" height="218" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1588833399534" />
+    <state width="678" height="218" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1590479706056" />
+    <state width="1163" height="318" key="GridCell.Tab.0.left/0.23.1920.1010@0.23.1920.1010" timestamp="1588745574617" />
+    <state width="678" height="218" key="GridCell.Tab.0.right" timestamp="1590561168153">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588123491602" />
+    <state width="678" height="218" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1590561168153" />
+    <state width="1357" height="218" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1588833095676" />
+    <state width="678" height="218" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1590548155575" />
+    <state width="678" height="218" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1590380790140" />
+    <state width="678" height="318" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1588902930072" />
+    <state width="1357" height="218" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1588833399536" />
+    <state width="678" height="218" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1590479706057" />
+    <state width="1163" height="318" key="GridCell.Tab.0.right/0.23.1920.1010@0.23.1920.1010" timestamp="1588745574619" />
+    <state width="678" height="318" key="GridCell.Tab.1.bottom" timestamp="1588923264511">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588123493144" />
+    <state width="678" height="318" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1588845535834" />
+    <state width="678" height="318" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1588923264511" />
+    <state width="678" height="318" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1588902923033" />
+    <state width="1163" height="318" key="GridCell.Tab.1.bottom/0.23.1920.1010@0.23.1920.1010" timestamp="1588745574550" />
+    <state width="678" height="318" key="GridCell.Tab.1.center" timestamp="1588923264511">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588123493143" />
+    <state width="678" height="318" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1588845535833" />
+    <state width="678" height="318" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1588923264511" />
+    <state width="678" height="318" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1588902923032" />
+    <state width="1163" height="318" key="GridCell.Tab.1.center/0.23.1920.1010@0.23.1920.1010" timestamp="1588745574550" />
+    <state width="678" height="318" key="GridCell.Tab.1.left" timestamp="1588923264510">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588123493142" />
+    <state width="678" height="318" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1588845535833" />
+    <state width="678" height="318" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1588923264510" />
+    <state width="678" height="318" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1588902923032" />
+    <state width="1163" height="318" key="GridCell.Tab.1.left/0.23.1920.1010@0.23.1920.1010" timestamp="1588745574549" />
+    <state width="678" height="318" key="GridCell.Tab.1.right" timestamp="1588923264511">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588123493144" />
+    <state width="678" height="318" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1588845535833" />
+    <state width="678" height="318" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1588923264511" />
+    <state width="678" height="318" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1588902923033" />
+    <state width="1163" height="318" key="GridCell.Tab.1.right/0.23.1920.1010@0.23.1920.1010" timestamp="1588745574550" />
+    <state x="87" y="87" key="SettingsEditor" timestamp="1588833866249">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="706" y="121" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1588073918109" />
+    <state x="87" y="87" key="SettingsEditor/0.23.1440.830@0.23.1440.830" timestamp="1588832662031" />
+    <state x="87" y="87" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1588833035390" />
+    <state x="87" y="87" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1588833866249" />
+    <state x="706" y="136" key="SettingsEditor/0.23.1920.1010@0.23.1920.1010" timestamp="1588734177449" />
+    <state width="803" height="440" key="XDebugger.FullValuePopup" timestamp="1588139777526">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="803" height="440" key="XDebugger.FullValuePopup/0.23.1920.1010@0.23.1920.1010" timestamp="1588139777526" />
+    <state x="195" y="407" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587367084254">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="195" y="407" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1920.1010@0.23.1920.1010" timestamp="1587367084254" />
+    <state x="644" y="245" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1587110998621">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="644" y="245" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.23.1920.1010@0.23.1920.1010" timestamp="1587110998621" />
+    <state x="937" y="229" width="670" height="676" key="search.everywhere.popup" timestamp="1587602882563">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="937" y="229" width="670" height="676" key="search.everywhere.popup/0.23.1920.1010@0.23.1920.1010" timestamp="1587602882563" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/c.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="url" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

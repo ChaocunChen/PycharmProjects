@@ -1,0 +1,34 @@
+#coding=utf-8
+
+from sklearn import linear_model
+from skimage import data
+import numpy as np
+#只支持二维向量
+# x_train = data.load('/Users/chenchaocun/Downloads/JPG/JPG/IMG_2752.jpg')
+# print(x_train.shape)
+# y_train = data.load('/Users/chenchaocun/Downloads/JPG/JPG/IMG_2744.jpg')
+# x_test = data.load('/Users/chenchaocun/Downloads/JPG/JPG/IMG_2740.jpg')
+# print(x_train,y_train,x_test)
+x_train=[[12,1,3,4],
+        [12,1,3,9],
+        [34,67,4,90],
+        [1,2,3,6]]
+
+
+y_train=[[34,3,45,66],
+        [67,78,90,30],
+        [67,78,90,57],
+        [90,4,22,90]]
+
+
+x_test=[[5,5,6,8],
+        [12,1,3,9],
+        [4,68,45,6],
+        [45,22,31,33]]
+
+linear = linear_model.LinearRegression()
+linear.fit(x_train,y_train)
+linear.score(x_train,y_train)
+print('score={}'.format(linear.coef_))
+print('Intercept={}'.format(linear.intercept_))
+predicter = linear.predict(x_test)
